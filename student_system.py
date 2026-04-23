@@ -4,4 +4,4 @@ def login(username, password):
     return False
 
 def calculate_average(marks):
-    return sum(marks) // len(marks)   # WRONG (integer division)
+    return sum(marks) // len(marks)   
